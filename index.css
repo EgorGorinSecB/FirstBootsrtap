@@ -1,0 +1,55 @@
+body{
+    background-color: papayawhip;
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light{
+    background-color: brown !important;
+    
+}
+
+.navbar-brand{
+    color: white !important;
+}
+
+.nav-link{
+    color: white!important;
+}
+
+.container0{
+    
+    align-items: center !important;
+    display: flex;
+    flex-direction: column;    
+
+}
+
+
+.container1{
+    justify-content: center !important;
+    align-items: center !important;
+    display: flex!important;
+}
+
+.footer.mt-4.py-3.bg-light{
+    background-color:lightgray !important;
+    
+}
+
+.text-muted{
+    color: black!important;
+}
+
+
+
+
+
+
+.card-img-top {
+    height: 50vh !important;
+    transition: transform 0.2s !important; 
+    
+}
+.card-img-top:hover {
+    transform: scale(1.05) !important; 
+    cursor: pointer !important;
+}
